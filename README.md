@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Original Portfolio from HW 1 made to use Bootstrap. 
+# Basic-Portfolio
+Homework 1 - Recommended - Portfolio
